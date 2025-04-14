@@ -60,7 +60,7 @@ module.exports.run = async function ({ args, Users, Threads, api, event, Currenc
   var tile = djtme[Math.floor(Math.random() * djtme.length)];
 
   var background = [
-  "https://i.imgur.com/yhqGORR.jpg",
+  "https://i.imgur.com/uFjV855.jpeg",
   ];
   var rd = background[Math.floor(Math.random() * background.length)];
 
