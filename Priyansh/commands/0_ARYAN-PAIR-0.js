@@ -34,12 +34,12 @@ module.exports.run = async function({ api, event, Threads, Users }) {
 
   // Array of Imgur gif links
   const imgurGifs = [
-    "https://i.imghippo.com/files/wdjc8556SOc.gif",
-    "https://i.imghippo.com/files/pl4721UgQ.gif",
-    "https://i.imghippo.com/files/EDzq1311uOY.gif",
-    "https://i.imghippo.com/files/WGPG8623Unc.gif",
-    "https://i.imghippo.com/files/MSO3071bH.gif",
-    "https://i.imghippo.com/files/XQB1394tX.gif"
+    "https://i.imgur.com/4j0PZx1.gif",
+    "https://i.imgur.com/eCAlkp2.gif",
+    "https://i.imgur.com/emEvOGa.gif",
+    "https://i.imgur.com/qpF35Vi.gif",
+    "https://i.imgur.com/glcA0vx.gif",
+    "https://i.imgur.com/gnOP52k.gif"
     // Add more Imgur gif links as needed
   ];
 
