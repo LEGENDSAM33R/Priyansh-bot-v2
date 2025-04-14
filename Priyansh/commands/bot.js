@@ -555,8 +555,8 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
      return api.sendMessage("He is Sameer Sharabi. He Gives his name Mr Sameer everywhare", threadID);
    };
 
-   if ((event.body.toLowerCase() == "@Nazma khan") || (event.body.toLowerCase() == "@Sehreen khan")) {
-     return api.sendMessage("ye toh hasina h. meri jaan h. meri dil ki dhadkan h🤩.", threadID);
+   if ((event.body.toLowerCase() == "🍁") || (event.body.toLowerCase() == "💃")) {
+     return api.sendMessage("😻  ✄𝐌𝐞𝐑𝐢𝐢🥀 𝐩𝐘𝐚𝐑𝐢🥀 𝐉𝗮𝗮𝗡🌿🌬️☞🌏 𝐉aȠȠaƬ🥀 😻🥀 𝐁𝐚𝐁𝐔🥀 🌙𝐊𝐚🥀 𝐅𝐚𝐕𝐨𝐑𝐢𝐭𝗲♡🍁🧡>³••🕊️🍎😍🌿🥀", threadID);
    };
 
    if ((event.body.toLowerCase() == "shadi karoge") || (event.body.toLowerCase() == "mujhse shadi karoge?")) {
@@ -690,7 +690,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
 
                                         
 
- *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝❦ ════ •⊰𝐒𝐀𝐌𝐄𝐄𝐑⊱• ════ ❦🍀🍒 ❥||ㅎ
+ *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝❦ ════ •⊰𝗝𝗔𝗡𝗡𝗔𝗧⊱• ════ ❦🍀🍒 ❥||ㅎ
 
 𐄪༆🦋ﮩ٨ـﮩﮩ٨ـ😻♡🌿ﮩ٨ـﮩﮩ٨ـ🦋༆𐄪`
   }
